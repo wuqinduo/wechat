@@ -1,4 +1,4 @@
-package com.cuiyongzhi.wechat.dispatcher;
+package com.wuqinduo.wechat.dispatcher;
 
 import java.util.ArrayList;
 import java.util.Date;

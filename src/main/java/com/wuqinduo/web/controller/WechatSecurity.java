@@ -13,10 +13,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.cuiyongzhi.wechat.dispatcher.EventDispatcher;
-import com.cuiyongzhi.wechat.dispatcher.MsgDispatcher;
 import com.wuqinduo.web.util.MessageUtil;
 import com.wuqinduo.web.util.SignUtil;
+import com.wuqinduo.wechat.dispatcher.EventDispatcher;
+import com.wuqinduo.wechat.dispatcher.MsgDispatcher;
 
 @Controller
 @RequestMapping("/webchat")
